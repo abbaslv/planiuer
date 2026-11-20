@@ -59,19 +59,19 @@ You need Python 3 and at least one of Claude, Codex, or OpenCode already install
 ### macOS / Linux
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/lvtik/planiuer/main/install.py | python3 -
+curl -fsSL https://raw.githubusercontent.com/abbaslv/planiuer/main/install.py | python3 -
 ```
 
 ### Windows (PowerShell)
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/lvtik/planiuer/main/install.py | python3 -
+iwr -useb https://raw.githubusercontent.com/abbaslv/planiuer/main/install.py | python3 -
 ```
 
 ### From a clone
 
 ```sh
-git clone https://github.com/lvtik/planiuer.git
+git clone https://github.com/abbaslv/planiuer.git
 cd planiuer
 python3 install.py
 ```
